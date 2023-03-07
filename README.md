@@ -11,7 +11,7 @@ training  by listening to how to speak the chosen word in the chosen language co
 
 <table>
   <tr>
-     <td><a href="mailto:iamedsonaguiar@gmail.com">Use the app</a></td>
+     <td><a href="https://speech-converter.vercel.app/">Use the app</a></td>
   </tr>
 </table>
 
